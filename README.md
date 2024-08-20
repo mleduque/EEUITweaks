@@ -17,3 +17,19 @@ To install the mod:
    good idea just to do it anyway.
 
 That's it! It should install with no problems.
+
+## Components
+
+### Mod Options ([Original thread](https://forums.beamdog.com/discussion/59740/mod-mods-options-bg-ee-sod-and-bg2-ee-tob))
+
+Adds screens to see the list of installed UI mods inside the game and toggle option offered by these mods.
+
+The new list screen is accessible from both
+- an "Option" button on the start screen
+- an "Option" button in the game's (original) "Option" screen
+
+From the mod list screen you can access the list of options offered by the mod (if any).
+
+Screenshots:
+- [SoD start screen](https://forums.beamdog.com/uploads/editor/bh/xgdd3mi7lw1z.png) | [SoD options screen](https://forums.beamdog.com/uploads/editor/f6/avo75x0bseci.png) | [SoD mod list screen](https://forums.beamdog.com/uploads/editor/re/u9beby5wdui3.png) | [Sod mod options screen](https://forums.beamdog.com/uploads/editor/2u/1scn6vm2ba6u.png)
+- [BG2 start screen](https://forums.beamdog.com/uploads/editor/k8/ebsabpb7isrk.png) | [BG2 options screen](https://forums.beamdog.com/uploads/editor/nb/11b878t3mvhi.png) | [BG2 mod list screen](https://forums.beamdog.com/uploads/editor/lw/rx5avmgv097s.png) | [BG2 mod options screen](https://forums.beamdog.com/uploads/editor/hc/c0dfyanxbd1q.png)

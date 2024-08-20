@@ -39,3 +39,12 @@ Screenshots:
 Uses the previous "Mod Options" UImod to give access to (vanilla) game options that are normally hidden and can only be changed by editing `baldur.lua`.
 
 Sreenshot: [SoD "Hidden Option" mod options :p](https://forums.beamdog.com/uploads/editor/dy/lxd0kyfpgj0f.png)
+
+### lefreut's Character Creation Screens
+
+Takes the Character creation screens from [Lefreut's Enhanced UI](https://forums.beamdog.com/discussion/61571/mod-lefreuts-enhanced-ui-for-bg1ee-sod-bg2ee-and-eet)
+> Modify the character creation screens to something closer to the v1.3 look.
+
+Applies on **unmodified BG:EE, BG2:EE or EET** (i.e. it is not installable over any LeUI variant, dragonspear++ or IWD:EE).
+
+There are two options for this component : "default button position" or "reversed button position".

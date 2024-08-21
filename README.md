@@ -48,3 +48,25 @@ Takes the Character creation screens from [Lefreut's Enhanced UI](https://forums
 Applies on **unmodified BG:EE, BG2:EE or EET** (i.e. it is not installable over any LeUI variant, dragonspear++ or IWD:EE).
 
 There are two options for this component : "default button position" or "reversed button position".
+
+## Mr2150's Portrait Picker ([Original thread](https://forums.beamdog.com/discussion/56916/mod-portrait-picker-for-bgee-sod-and-bg2ee-v2-1))
+
+Portrait picker with list, sorting, filtering.
+- portraits can be given a gender and description
+- those can be used for sorting and filtering
+It has two versions, scaled (all except BG:EE without SoD or LeUI) or non-scaled (EET or BG:EE with SoD but no LeUI/DS++).
+
+Incompatible with [lefreut's Portrait Picker](#lefreuts-portrait-picker)
+
+Screenshots: [SoD](https://forums.beamdog.com/uploads/editor/eb/dkto779scwa9.png) | [BG2:EE](https://forums.beamdog.com/uploads/editor/xa/0bop55y2upa8.bmp)
+
+## lefreut's Portrait Picker
+
+Takes the Portrait picker screens from [Lefreut's Enhanced UI](https://forums.beamdog.com/discussion/61571/mod-lefreuts-enhanced-ui-for-bg1ee-sod-bg2ee-and-eet)
+
+EE games without LeUI or Dragonspear++.
+
+Incompatible with [Mr2150's Portrait Picker](#mr2150s-portrait-picker-original-thread)
+
+[Screenshot](https://forums.beamdog.com/uploads/editor/le/8p2r9yos0j2f.jpg)
+

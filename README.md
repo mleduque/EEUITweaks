@@ -70,3 +70,9 @@ Incompatible with [Mr2150's Portrait Picker](#mr2150s-portrait-picker-original-t
 
 [Screenshot](https://forums.beamdog.com/uploads/editor/le/8p2r9yos0j2f.jpg)
 
+## Mr2150's Backup M_BG.lua
+Uh! no idea... Probably to recover when your M_BG.lua os broken.
+
+Saves the `M_BG.lua` file to `override/backup-M_BG`.
+
+Depends on [Mr2150's Portrait Picker](#mr2150s-portrait-picker-original-thread)

@@ -66,6 +66,27 @@ Takes the Portrait picker screens from [Lefreut's Enhanced UI](https://forums.be
 
 EE games without LeUI or Dragonspear++.
 
+<details>
+<summary>Portrait list generation - <em>click to show</em></summary>
+   
+- uses portraits in `$USER_DIRECTORY/portraits`
+- `$USER_DIRECTORY` depends on the OS
+    * `{user personal directory}/{game name}` on Windows
+    * `$HOME/.local/share/{game name}` on Linux
+    * `$HOME/Documents/{game name}` on Macos
+- `{game name}` is for example `Baldur's Gate - Enhanced Edition` for BG:EE or `Baldur's Gate - Enhanced Edition Trilogy` for EET
+  
+- list all `.bmp` files with a base name of 7 characters or less
+- there are 4 genders, M, F, Z and D
+   * if the filename starts with `M#` or `m#` it is added to the M list
+   * if the filename starts with `F#` or `f#` then it's added to the F list
+   * any other is added to the D list
+   * the Z list isspecial and contains the "no portrait" portrait
+
+The `m_nicks.lua` is static and contains descriptions/nicks for the base game portraits (but can be edited by hand... or by other mods).
+
+</details>
+
 Incompatible with [Mr2150's Portrait Picker](#mr2150s-portrait-picker-original-thread)
 
 [Screenshot](https://forums.beamdog.com/uploads/editor/le/8p2r9yos0j2f.jpg)
@@ -75,4 +96,11 @@ Uh! no idea... Probably to recover when your M_BG.lua os broken.
 
 Saves the `M_BG.lua` file to `override/backup-M_BG`.
 
+Depends on [Mr2150's Portrait Picker](#mr2150s-portrait-picker-original-thread)
+
+## Mr2150's Update Portraits
+
+(Note: Those are speculations)
+Regenerates the list of portraits for [Mr2150's Portrait Picker](#mr2150s-portrait-picker-original-thread).
+Can be used after editing `M_BG.lua` and `m_nicks.lua`.
 Depends on [Mr2150's Portrait Picker](#mr2150s-portrait-picker-original-thread)

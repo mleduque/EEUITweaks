@@ -20,7 +20,8 @@ That's it! It should install with no problems.
 
 ## Components
 
-### Mod Options ([Original thread](https://forums.beamdog.com/discussion/59740/mod-mods-options-bg-ee-sod-and-bg2-ee-tob))
+### Mod Options
+([Original thread](https://forums.beamdog.com/discussion/59740/mod-mods-options-bg-ee-sod-and-bg2-ee-tob))
 
 Adds screens to see the list of installed UI mods inside the game and toggle option offered by these mods.
 
@@ -34,7 +35,8 @@ Screenshots:
 - [SoD start screen](https://forums.beamdog.com/uploads/editor/bh/xgdd3mi7lw1z.png) | [SoD options screen](https://forums.beamdog.com/uploads/editor/f6/avo75x0bseci.png) | [SoD mod list screen](https://forums.beamdog.com/uploads/editor/re/u9beby5wdui3.png) | [Sod mod options screen](https://forums.beamdog.com/uploads/editor/2u/1scn6vm2ba6u.png)
 - [BG2 start screen](https://forums.beamdog.com/uploads/editor/k8/ebsabpb7isrk.png) | [BG2 options screen](https://forums.beamdog.com/uploads/editor/nb/11b878t3mvhi.png) | [BG2 mod list screen](https://forums.beamdog.com/uploads/editor/lw/rx5avmgv097s.png) | [BG2 mod options screen](https://forums.beamdog.com/uploads/editor/hc/c0dfyanxbd1q.png)
 
-### Hidden Game Options ([Original thread, same as "Mod Options"](https://forums.beamdog.com/discussion/59740/mod-mods-options-bg-ee-sod-and-bg2-ee-tob))
+### Hidden Game Options
+([Original thread, same as "Mod Options"](https://forums.beamdog.com/discussion/59740/mod-mods-options-bg-ee-sod-and-bg2-ee-tob))
 
 Uses the previous "Mod Options" UImod to give access to (vanilla) game options that are normally hidden and can only be changed by editing `baldur.lua`.
 
@@ -49,7 +51,8 @@ Applies on **unmodified BG:EE, BG2:EE or EET** (i.e. it is not installable over 
 
 There are two options for this component : "default button position" or "reversed button position".
 
-## Mr2150's Portrait Picker ([Original thread](https://forums.beamdog.com/discussion/56916/mod-portrait-picker-for-bgee-sod-and-bg2ee-v2-1))
+## Mr2150's Portrait Picker
+([Original thread](https://forums.beamdog.com/discussion/56916/mod-portrait-picker-for-bgee-sod-and-bg2ee-v2-1))
 
 Portrait picker with list, sorting, filtering.
 - portraits can be given a gender and description
@@ -105,7 +108,8 @@ Regenerates the list of portraits for [Mr2150's Portrait Picker](#mr2150s-portra
 Can be used after editing `M_BG.lua` and `m_nicks.lua`.
 Depends on [Mr2150's Portrait Picker](#mr2150s-portrait-picker-original-thread)
 
-## Adul's Unhide Chargen Options ([Original thread](https://forums.beamdog.com/discussion/59647/mod-unhide-chargen-options))
+## Adul's Unhide Chargen Options
+([Original thread](https://forums.beamdog.com/discussion/59647/mod-unhide-chargen-options))
 
 > The EE 2.0 update brought with it the new practice of hiding unavailable character choices during character creation. This means, for instance, that if you choose the halfling race, in class selection you will only see the 4 classes that are available to you and none of the disabled options, where in previous game versions you could see all the disabled options.
 
@@ -118,7 +122,8 @@ The following previously hidden options are restored:
 
 Incompatible with [lefreut's Portrait Picker](#lefreuts-portrait-picker), [lefreut's Character Creation Screens](#lefreuts-character-creation-screens) and  DragonspearUI++.
 
-## Faydark's Abilities Auto-Roller/GrimLefourbe's BG2 UI ([Original thread](https://forums.beamdog.com/discussion/51777/mod-bg-ee-chargen-abilities-screen-show-stored-values-and-simple-auto-roller/p1))
+## Faydark's Abilities Auto-Roller/GrimLefourbe's BG2 UI
+([Original thread](https://forums.beamdog.com/discussion/51777/mod-bg-ee-chargen-abilities-screen-show-stored-values-and-simple-auto-roller/p1))
 
 1. When storing a set of abiliy rolls, you can see it while you continue rolling side by side with your current rolls
 2. Adds an "Autoroll" button that keeps rolling (until you tell it to stop) and stores the biggest value
@@ -127,7 +132,8 @@ Incompatible with [lefreut's Portrait Picker](#lefreuts-portrait-picker), [lefre
 
 Incompatible with [Mr2150's Roll First](#mr2150s-roll-first) and DragonspearUI++.
 
-## Mr2150's Roll First ([Original thread](https://forums.beamdog.com/discussion/59780/mod-roll-first-beta-for-bgee-sod-v2-2))
+## Mr2150's Roll First
+([Original thread](https://forums.beamdog.com/discussion/59780/mod-roll-first-beta-for-bgee-sod-v2-2))
 
 Adds a "Roll first" button at the start of character creation for an alternate character creation. The abilities are rolled before you choose the race and class. You can then "fix" the abilities to match the race/class requirements.
 

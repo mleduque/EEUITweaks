@@ -143,3 +143,11 @@ Incompatible with [Faydark's Abilities Auto-Roller/GrimLefourbe's BG2 UI](#fayda
 #### Display max proficiency limits
 
 Shows how many points can be put in a proficiency, even if they are not available because the character is limited by their level.
+
+### Group: Game World/Maps/Travel
+
+### Group: Record/Inventory/Journal
+
+### Group: Stores/Dialogs/Spell Books
+
+### Group: Multiplayer/General/Other

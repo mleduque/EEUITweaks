@@ -196,8 +196,20 @@ Multiple variants (subcomponents) of a visual indicator for level up.
 
 ### Group: Stores/Dialogs/Spell Books
 
+### Group: Multiplayer/General/Other
+
+#### lefreut's Tooltip Scrolls
+
 #### lefreut's Box 5 (Dialog Box) Override
 
 Changes the texture of the dialog box.
 
-### Group: Multiplayer/General/Other
+#### lefreut's Improved Fonts
+
+Two options:
+- Non-Italicized fonts for descriptions
+- BG2 vanilla fonts for descriptions
+
+
+#### lefreut's Scroll Bar Override
+

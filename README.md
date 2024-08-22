@@ -146,6 +146,52 @@ Shows how many points can be put in a proficiency, even if they are not availabl
 
 ### Group: Game World/Maps/Travel
 
+#### Transparent Sidebars
+[Original thread](https://forums.beamdog.com/discussion/49786/how-to-get-transparent-sidebars)
+
+The right and left sidebars have a transparent background.
+
+Incompatible with DragonspearUI++.
+
+#### LavaDelVortel's Sculpted Transparent Sidebars
+
+Transparent side bars for PST:EE.
+
+Only on PST:EE.
+
+#### Feedback Message Box Re-sizers
+
+In two variants, allow resizing (expanding/retracting) the feedback message box.
+
+- [Feedback Message Box Hack](https://forums.beamdog.com/discussion/51527/quick-and-dirty-feedback-buttons-hack) with two buttons ([ScreenShot](https://forums.beamdog.com/uploads/editor/pv/y7feubrds2gr.jpg))
+- [Adul's Message Box Button](https://forums.beamdog.com/discussion/58926/mod-message-box-quick-resize-button) with one button that depend on state ([Screenshot](https://forums.beamdog.com/uploads/editor/0g/cxxvlzp6ayiy.png)) (Not compatible with LeUI)
+
+#### Adul's Better Quick Loot
+[Original thread](https://forums.beamdog.com/discussion/58972/mod-better-quick-loot-v1-6)
+
+Redesign of the quick loot bar.
+- Turned the quick loot bar into a compact, easy-to-navigate panel
+- Can be opened and closed via a hotkey (default: E)
+- When the quick loot panel is opened, it appears right next to the mouse cursor so you can start looting immediately
+- Added encumbrance indicator
+- New page indicator shows the current page number as well as the page total
+- Previous/next page buttons only become highlighted when appropriate, they're otherwise greyed out
+- Scrolling the mouse wheel over the quick loot panel scrolls between the item pages
+
+[Screenshot](https://forums.beamdog.com/uploads/editor/x8/szdbqajb59re.png)
+
+Not compatible with DragonspearUI++.
+
+#### lefreut's Better Level Up Indicators
+
+Multiple variants (subcomponents) of a visual indicator for level up.
+
+- lefreut's Level Up Glow no Click
+- lefreut's Level Up Glow with Click
+- lefreut's Level Up Buttons
+
+(With different compatibility requirements)
+
 ### Group: Record/Inventory/Journal
 
 ### Group: Stores/Dialogs/Spell Books

@@ -104,3 +104,31 @@ Depends on [Mr2150's Portrait Picker](#mr2150s-portrait-picker-original-thread)
 Regenerates the list of portraits for [Mr2150's Portrait Picker](#mr2150s-portrait-picker-original-thread).
 Can be used after editing `M_BG.lua` and `m_nicks.lua`.
 Depends on [Mr2150's Portrait Picker](#mr2150s-portrait-picker-original-thread)
+
+## Adul's Unhide Chargen Options ([Original thread](https://forums.beamdog.com/discussion/59647/mod-unhide-chargen-options))
+
+> The EE 2.0 update brought with it the new practice of hiding unavailable character choices during character creation. This means, for instance, that if you choose the halfling race, in class selection you will only see the 4 classes that are available to you and none of the disabled options, where in previous game versions you could see all the disabled options.
+
+The following previously hidden options are restored:
+
+- Classes excluded by your race selection
+- Kits excluded by your race selection
+- Alignments excluded by your class/kit selections
+- Weapon proficiencies excluded by your class/kit selections
+
+Incompatible with [lefreut's Portrait Picker](#lefreuts-portrait-picker), [lefreut's Character Creation Screens](#lefreuts-character-creation-screens) and  DragonspearUI++.
+
+## Faydark's Abilities Auto-Roller/GrimLefourbe's BG2 UI ([Original thread](https://forums.beamdog.com/discussion/51777/mod-bg-ee-chargen-abilities-screen-show-stored-values-and-simple-auto-roller/p1)
+
+1. When storing a set of abiliy rolls, you can see it while you continue rolling side by side with your current rolls
+2. Adds an "Autoroll" button that keeps rolling (until you tell it to stop) and stores the biggest value
+
+[Screenshot](https://forums.beamdog.com/uploads/editor/i4/ofbin5zkcjp8.png)
+
+Incompatible with [Mr2150's Roll First](#mr2150s-roll-first) and DragonspearUI++.
+
+## Mr2150's Roll First([Original thread](https://forums.beamdog.com/discussion/59780/mod-roll-first-beta-for-bgee-sod-v2-2))
+
+Adds a "Roll first" button at the start of character creation for an alternate character creation. The abilities are rolled before you choose the race and class. You can then "fix" the abilities to match the race/class requirements.
+
+Incompatible with [Faydark's Abilities Auto-Roller/GrimLefourbe's BG2 UI](#faydarks-abilities-auto-rollergrimlefourbes-bg2-ui-original-thread) and Random PC generator

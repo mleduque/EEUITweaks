@@ -138,3 +138,7 @@ Incompatible with [Mr2150's Roll First](#mr2150s-roll-first) and DragonspearUI++
 Adds a "Roll first" button at the start of character creation for an alternate character creation. The abilities are rolled before you choose the race and class. You can then "fix" the abilities to match the race/class requirements.
 
 Incompatible with [Faydark's Abilities Auto-Roller/GrimLefourbe's BG2 UI](#faydarks-abilities-auto-rollergrimlefourbes-bg2-ui) and Random PC generator
+
+## Display max proficiency limits
+
+Shows how many points can be put in a proficiency, even if they are not available because the character is limited by their level.

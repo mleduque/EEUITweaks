@@ -118,7 +118,7 @@ The following previously hidden options are restored:
 
 Incompatible with [lefreut's Portrait Picker](#lefreuts-portrait-picker), [lefreut's Character Creation Screens](#lefreuts-character-creation-screens) and  DragonspearUI++.
 
-## Faydark's Abilities Auto-Roller/GrimLefourbe's BG2 UI ([Original thread](https://forums.beamdog.com/discussion/51777/mod-bg-ee-chargen-abilities-screen-show-stored-values-and-simple-auto-roller/p1)
+## Faydark's Abilities Auto-Roller/GrimLefourbe's BG2 UI ([Original thread](https://forums.beamdog.com/discussion/51777/mod-bg-ee-chargen-abilities-screen-show-stored-values-and-simple-auto-roller/p1))
 
 1. When storing a set of abiliy rolls, you can see it while you continue rolling side by side with your current rolls
 2. Adds an "Autoroll" button that keeps rolling (until you tell it to stop) and stores the biggest value
@@ -127,7 +127,7 @@ Incompatible with [lefreut's Portrait Picker](#lefreuts-portrait-picker), [lefre
 
 Incompatible with [Mr2150's Roll First](#mr2150s-roll-first) and DragonspearUI++.
 
-## Mr2150's Roll First([Original thread](https://forums.beamdog.com/discussion/59780/mod-roll-first-beta-for-bgee-sod-v2-2))
+## Mr2150's Roll First ([Original thread](https://forums.beamdog.com/discussion/59780/mod-roll-first-beta-for-bgee-sod-v2-2))
 
 Adds a "Roll first" button at the start of character creation for an alternate character creation. The abilities are rolled before you choose the race and class. You can then "fix" the abilities to match the race/class requirements.
 
